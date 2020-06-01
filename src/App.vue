@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <v-content>
+      <Navbar />
       <Calendar />
     </v-content>
   </v-app>
@@ -8,12 +9,14 @@
 
 <script>
 import Calendar from "./components/Calendar";
+import Navbar from "./components/Navbar"
 
 export default {
   name: 'App',
 
   components: {
-    Calendar
+    Calendar,
+    Navbar
   },
 
   data: () => ({
