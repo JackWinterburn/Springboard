@@ -24,5 +24,6 @@ img{
 
 .title{
   font-weight: 700;
+  
 }
 </style>
