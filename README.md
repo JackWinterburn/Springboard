@@ -5,6 +5,6 @@
 
 
 
-![SringBoard Image](/src/assets/springboard-img.png)
+![SpringBoard Image](/src/assets/springboard-img.png)
 
 
