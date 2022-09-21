@@ -12,7 +12,7 @@
     "firebase": "^7.14.6",
     "vue": "^2.6.11",
     "vue-textarea-autosize": "^1.1.1",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
